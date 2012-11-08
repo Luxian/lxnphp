@@ -5,6 +5,9 @@
  *
  * @created 
  *   2012-11-08
+ *
+ * The solution was inspired by this topic:
+ * 	http://stackoverflow.com/questions/1783089/array-splice-for-associative-arrays
  */
 
 
